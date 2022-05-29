@@ -1,5 +1,5 @@
 # Hospital-Spring-REST
-Simple hospital system made with SpringBoot as a RESTful API
+Simple hospital system made with SpringBoot as a RESTful API.
 This project was made as a demonstration project for the needs of student internship at SerengetiTech.
 
 This project simulates simple hospital. Patient can schedule an appointment, after appointment is done doctor writes an examination report, prescribes a therapy if needed (and needed medications).
